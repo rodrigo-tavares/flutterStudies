@@ -1,4 +1,4 @@
-# first_app
+# Flutter Studies
 
 A new Flutter project.
 
